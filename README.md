@@ -29,23 +29,3 @@ python -m pip install -r requirements.txt
 
 ---
 
-### 4. Download the Dataset
-
-Run:
-
-```
-python download.py
-```
-
-This will download the dataset into a local cache directory on your machine.
-
----
-
-### 5. Place Dataset in Project Folder
-
-After downloading, navigate to path
-
-Copy the folder and paste it into the project
-
----
-
